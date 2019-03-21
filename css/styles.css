@@ -37,6 +37,31 @@ p.intro {
   text-align:center;
 }
 
+.box1 {
+  border: 1px solid black;
+  margin-bottom:20px;
+  margin-right:800px;
+  padding:10px;
+  background-color:#cfcbd7
+}
+
+.box2 {
+  border: 2px solid black;
+  margin-bottom:20px;
+  margin-left: 400px;
+  margin-right:400px;
+  padding:10px;
+  background-color:#cad47d
+}
+
+.box3 {
+  border: 3px solid black;
+  margin-bottom:20px;
+  margin-left:800px;
+  padding:10px;
+  background-color:#cb959a
+}
+
 h1 {
   text-align: center;
 }
