@@ -1,9 +1,35 @@
+.class1 {
+  font-family:cursive;
+  color:blue;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.class2 {
+  font-family:fantasy;
+  color:red;
+  font-size:20px;
+  font-weight:lighter;
+}
+
+.class3 {
+  font-family:sans-serif;
+  color:green;
+  font-size:20px;
+  font-weight:300;
+}
+
 p.intro {
   font-style:italic;
   text-align:center;
 }
+
  p.outro {
-  font-style: oblique;
-  font-weight: bold;
+  font-style:oblique;
+  font-weight:bold;
+  text-align:center;
+}
+
+h1 {
   text-align: center;
 }
