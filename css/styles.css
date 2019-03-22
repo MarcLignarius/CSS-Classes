@@ -81,3 +81,16 @@ img.floatright {
   float:left;
   margin:1px;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
