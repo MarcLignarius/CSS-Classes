@@ -11,6 +11,7 @@ _Several web pages and a couple of stylesheets demonstrating the use of classes,
 ## Setup/Installation Requirements
 
 * _Clone the file from github_
+* _Open the file and double click index.html_
 
 ## Support and contact details
 
