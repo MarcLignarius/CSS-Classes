@@ -12,10 +12,11 @@ _Several web pages and a couple of stylesheets demonstrating the use of classes,
 
 * _Clone the file from github_
 * _Open the file and double click index.html_
+* _Alternatively open marclignarius.github.io/CSS-Classes_
 
 ## Support and contact details
 
-_marcdaviesriot@gmail.com_
+_Please reach out to marcdaviesriot@gmail.com if you run into any issues or have questions, ideas or comments._
 
 ## Technologies Used
 
