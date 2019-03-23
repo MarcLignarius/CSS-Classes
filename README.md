@@ -12,7 +12,7 @@ _Several web pages and a couple of stylesheets demonstrating the use of classes,
 
 * _Clone the file from github_
 * _Open the file and double click index.html_
-* _Alternatively open marclignarius.github.io/CSS-Classes_
+* _Alternatively open marclignarius.github.io/CSS-Classes/_
 
 ## Support and contact details
 
